@@ -1,0 +1,2595 @@
+﻿<!--
+    * Editar Nav para que sea responsive y se adapte a mobile
+    * Editar todo para que se adapte a mobile
+    * Editar footer y que adapte a mobile
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi-proyecto</title>
+    <link rel="styleheet" href="~/css/all.min.css"/>
+    <script src="https://kit.fontawesome.com/ec3428f5b7.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="~/css/css-Index.css"/>
+    
+</head>
+<body>
+    <header>        
+        <!--Primer barra de navegación-->
+        <div class="container fluid row">            
+            <nav class="navbar">
+                <div class="container">
+                    <div class="container col-2">                        
+                        <img src="~/images/mercado-libre-logo-header.png" alt="Bootstrap" class="d-block w-100" />                        
+                    </div>
+                    <div class="container col-5">
+                        <form class="d-flex" role="search">
+                            <input class="form-control buscador" type="search" placeholder="Buscar productos, marcas y más…" aria-label="Search">
+                            <button class="botonBuscador" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+                        </form>
+                    </div>                    
+                    <div class="container col-4">
+                        <img src="~/Images/Disney-Star-Nav.png" class="d-block w-100" />
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <!--Segunda barra de navegación-->
+        <div class="row">           
+            <nav class="navbar navbar-expand">                                 
+                <div class="container-fluid col">
+                    <div class="collapse navbar-collapse" id="barraNavegacion1">
+                        <ul class="navbar-nav">
+                            <li class="nav-menu-item">
+                                <a class= "nav-link text-black nav-menu-ubicacion" href="#">
+                                    <img src="~/images/ubicacion.png" />
+                                </a>
+                            </li>
+                            <li class="nav-menu-item dropdown lista">
+                                <a class="nav-link dropdown-toggle text-black" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Categorías
+                                </a>
+                                <ul class="dropdown-menu dropdown-menu-dark">
+                                    <li><a class="dropdown-item" href="#">Vehículos</a></li>
+                                    <li><a class="dropdown-item" href="#">Inmuebles</a></li>
+                                    <li><a class="dropdown-item" href="#">Supermercado</a></li>
+                                    <li><a class="dropdown-item" href="#">Tecnología</a></li>
+                                    <li><a class="dropdown-item" href="#">Hogar y Muebles</a></li>
+                                    <li><a class="dropdown-item" href="#">Electrodomésticos</a></li>
+                                    <li><a class="dropdown-item" href="#">Herramientas</a></li>
+                                    <li><a class="dropdown-item" href="#">Construcción</a></li>
+                                    <li><a class="dropdown-item" href="#">Deportes y Fitnes</a></li>
+                                    <li><a class="dropdown-item" href="#">Accesorios para Vehículos</a></li>
+                                    <li><a class="dropdown-item" href="#">Moda</a></li>
+                                    <li><a class="dropdown-item" href="#">Juegos y Juguetes</a></li>
+                                    <li><a class="dropdown-item" href="#">Bebés</a></li>
+                                    <li><a class="dropdown-item" href="#">Belleza y Cuidado Personal</a></li>
+                                    <li><a class="dropdown-item" href="#">Salud y Equipamiento Médico</a></li>
+                                    <li><a class="dropdown-item" href="#">Industrias y oficinas</a></li>
+                                    <li><a class="dropdown-item" href="#">Agro</a></li>
+                                    <li><a class="dropdown-item" href="#">Productos Sustentables</a></li>
+                                    <li><a class="dropdown-item" href="#">Servivios</a></li>
+                                    <li><a class="dropdown-item" href="#">Más vendidos</a></li>
+                                    <li><a class="dropdown-item" href="#">Tiendas Oficaiales</a></li>
+                                    <li><a class="dropdown-item" href="#">Ver más categorías</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-menu-item">
+                                <a class="nav-link text-black" href="#">Ofertas</a>
+                            </li>
+                            <li class="nav-menu-item">
+                                <a class="nav-link text-black" href="#">Historial</a>
+                            </li>
+                            <li class="nav-menu-item">
+                                <a class="nav-link text-black" href="#">Supermercado</a>
+                            </li>
+                            <li class="nav-menu-item">
+                                <a class="nav-link text-black" href="#">Vender</a>
+                            </li>
+                            <li class="nav-menu-item">
+                                <a class="nav-link text-black nav-menu-ayuda" href="#">Ayuda</a>
+                            </li>
+                            <li class="nav-menu-item dropdown">                            
+                                <a class="nav-link dropdown-toggle text-black" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <i class="fa-regular fa-circle-user"></i> Usuario
+                                </a>                        
+                                <ul class="dropdown-menu dropdown-menu-dark">
+                                    <li><a class="dropdown-item" href="#">Compras</a></li>
+                                    <li><a class="dropdown-item" href="#">Preguntas</a></li>
+                                    <li><hr class="dropdown-divider"></li>
+                                    <li><a class="dropdown-item" href="#">Películas y series</a></li>
+                                    <li><hr class="dropdown-divider"></li>
+                                    <li><a class="dropdown-item" href="#">Resumen</a></li>
+                                    <li><a class="dropdown-item" href="#">Novedades</a></li>
+                                    <li><a class="dropdown-item" href="#">Publicaciones</a></li>
+                                    <li><a class="dropdown-item" href="#">Ventas</a></li>
+                                    <li><a class="dropdown-item" href="#">Publicidad</a></li>
+                                    <li><a class="dropdown-item" href="#">Facturación</a></li>
+                                    <li><a class="dropdown-item" href="#">Mercado Shops</a></li>
+                                    <li><hr class="dropdown-divider"></li>
+                                    <li><a class="dropdown-item" href="#">Mi Perfil</a></li>
+                                    <li><hr class="dropdown-divider"></li>
+                                    <li><a class="dropdown-item" href="#">Salir</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-menu-item">
+                                    <a class="nav-link text-black" href="#">
+                                        Mis compras
+                                    </a>
+                            </li>
+                            <li class="nav-menu-item dropdown">
+                                <a class="nav-link dropdown-toggle text-black" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Favoritos
+                                    <!--Falta una descrición como en el video-->
+                                </a>
+                                <ul class="dropdown-menu dropdown-menu-lg-end pb-0" data-popper-placement="bottom-start">
+                                <li>
+                                    <div>
+                                        <p>Favoritos</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item p-0" href="#" aria-label="...">
+                                        <div class="container-fluid text-center p-0">
+                                            <div class="row">
+                                                <div class="col">
+                                                    <div class="p-3 border" style="background-color:#ebebeb">
+                                                        <p>Agregá acá los productos que te gustaron
+                                                            para poder verlos mas tarde.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-menu-item dropdown">                            
+                                <a class="nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <i class="fa-regular fa-bell icon-nav"></i>                               
+                                </a>
+                                <!--Falta lista de elementos con imagen, descripción y un link-->
+                                <ul class="dropdown-menu dropdown-menu-lg-end notis" size="2" data-popper-placement="bottom-start">
+                                    <li>
+                                        <a class="dropdown-item" href="#">
+                                            <div class="card">
+                                                <div class="row">
+                                                    <div class="col">
+                                                        <div class="card-body">
+                                                            <table class="table table-borderless">                                                                
+                                                                <tr>
+                                                                    <td><img src="~/images/desplegable-notis/foto1.png" width="50" height="50"></td>
+                                                                    <td>
+                                                                        <h4 class="card-text">Sumaste 10 Mercado Puntos</h4>
+                                                                        <p class="card-text">Por cumplir el desafio Se Vende</p>
+                                                                    </td>
+                                                                    <td>
+                                                                        <a href="#">Eliminar</a> 
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="#">
+                                            <div class="card">
+                                                <div class="row">
+                                                    <div class="col">
+                                                        <div class="card-body">
+                                                            <table class="table table-borderless">                                                                
+                                                                <tr>
+                                                                    <td><img src="~/images/desplegable-notis/foto2.png" width="50" height="50"></td>
+                                                                    <td>
+                                                                        <h4 class="card-text">Te preguntaron en Impresora EPSON TX135</h4>
+                                                                        <p class="card-text">Hola, ¿Está disponible?</p>
+                                                                    </td>
+                                                                    <td>
+                                                                        <a href="#">Eliminar</a> 
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="#">
+                                            <div class="card">
+                                                <div class="row">
+                                                    <div class="col">
+                                                        <div class="card-body">
+                                                            <table class="table table-borderless">                                                                
+                                                                <tr>
+                                                                    <td><img src="~/images/desplegable-notis/foto3.png" width="50" height="50"></td>
+                                                                    <td>
+                                                                        <h4 class="card-text">¿Qué te pareció el producto?</h4>
+                                                                        <p class="card-text">Comenta a otras personas sobre Balanza dorada</p>
+                                                                    </td>
+                                                                    <td>
+                                                                        <a href="#">Comentar</a> 
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="nav-menu-item dropdown carrito-nav">                            
+                                <a class="nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <i class="fa-solid fa-cart-shopping icon-nav"></i>                               
+                                </a>
+                            </li>
+                        </ul>
+                    </div>                    
+                </div>
+                
+            </nav>
+        </div>
+    </header>
+
+    <!--Cuerpo de la página-->
+    <!--Carrusel-->
+
+    <div id="carouselImagenes" class="carousel slide " data-bs-ride="true">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="5" aria-label="Slide 6"></button>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="~/Images/Cuerpo-de-pagina/Publicidad-1.png" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="~/Images/Cuerpo-de-pagina/Publicidad-2.png" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="~/Images/Cuerpo-de-pagina/Publicidad-3.png" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="~/Images/Cuerpo-de-pagina/Publicidad-4.png" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="~/Images/Cuerpo-de-pagina/Publicidad-5.png" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="~/Images/Cuerpo-de-pagina/Publicidad-6.png" class="d-block w-100">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselImagenes" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselImagenes" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>        
+    </div>
+
+    <!--Menu con imagenes fijas y links - Volver a probar con tabla...--> 
+
+    <div class="container-fluid pt-2 mt-5">
+        <div class="row fondo-menu-formas-pago">   
+            <nav class="navbar navbar-expand">
+                <div class="container">
+                    <div class="row"> 
+                        <div class="col col-menu-forma-pago">
+                            <table>
+                                <tr>
+                                    <td >
+                                        <i class="fa-solid fa-credit-card icon-menu"></i>                        
+                                    </td>
+                                    <td>
+                                        <div class="menu-title">Tarjeta de crédito</div>
+                                        <div class="menu-subtitle">
+                                            <a class="enlase-menu-forma-pago" href="#">Ver promociones bancarias</a>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>                        
+                        </div>
+                        <div class="col">
+                            <table>
+                                <tr>
+                                    <td>
+                                        <i class="fa-regular fa-credit-card icon-menu"></i>                        
+                                    </td>
+                                    <td>
+                                        <div class="menu-title">Tarjeta de debito</div>
+                                        <div class="menu-subtitle">
+                                            <a class="enlase-menu-forma-pago" href="#">Ver más</a>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>                        
+                        </div>
+                        <div class="col">
+                            <table>
+                                <tr>
+                                    <td>
+                                        <i class="fa-solid fa-hand-holding-dollar icon-menu"></i>                      
+                                    </td>
+                                    <td>
+                                        <div class="menu-title">Cuotas sin tarjetas</div>
+                                        <div class="menu-subtitle">
+                                            <a class="enlase-menu-forma-pago" href="#">Conocé Mercado Créditos</a>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>                        
+                        </div>
+                        <div class="col">
+                            <table>
+                                <tr>
+                                    <td>
+                                        <i class="fa-solid fa-money-bill-1-wave icon-menu"></i>                        
+                                    </td>
+                                    <td>
+                                        <div class="menu-title">Efectivo</div>
+                                        <div class="menu-subtitle">
+                                            <a class="enlase-menu-forma-pago" href="#">Ver más</a>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>                        
+                        </div>
+                    </div>
+                    <div class="col" style="border-left: 1px solid #e6e6e6;"> 
+                        <i class="fa-solid fa-plus icon-menu" ></i>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+    
+    <!--Carrusel con 5 card Basado en tu última visita - Terminar de Modificar-->
+
+    <div class="pt-2 mt-5">
+        <div class="row container">
+            <div>
+                <h2 class="titulos">Basado en tu última visita
+                    <a class="link-titulos" href="#">Ver historial</a>
+                </h2>    
+            </div>
+            <div id="carruselUltimaVisita" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active ">
+                        <div class="container row m-0">
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-ultima-visita/Ultima-visita1.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$64.499</span>
+                                        <span style="color: darkgreen; font-size:15px;">25% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-ultima-visita/Ultima-visita2.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$85.305</span>
+                                        <span style="color: darkgreen; font-size:15px;">24% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-ultima-visita/Ultima-visita3.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$79.778,19</span>
+                                        <span style="color: darkgreen; font-size:15px;">25% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-ultima-visita/Ultima-visita4.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$70.599</span>
+                                        <span style="color: darkgreen; font-size:15px;">18% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-ultima-visita/Ultima-visita5.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$77.7743,08</span>
+                                        <span style="color: darkgreen; font-size:15px;">8% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>   
+                    <div class="carousel-item ">
+                        <div class="container row m-0">
+                            <div class="col card-estilo">
+                                <div class="card">
+                                    <img src="~/images/card-ultima-visita/Ultima-visita6.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$83.470</span>
+                                        <span style="color: darkgreen; font-size:15px;">18% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envio gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-ultima-visita/Ultima-visita7.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$77.751,08</span>
+                                        <span style="color: darkgreen; font-size:15px;">19% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-ultima-visita/Ultima-visita8.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$79.991,19</span>
+                                        <span style="color: darkgreen; font-size:15px;">20% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-ultima-visita/Ultima-visita9.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$103.337</span>
+                                        <span style="color: darkgreen; font-size:15px;">13% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-ultima-visita/Ultima-visita10.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$67.126,77</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> 
+                    <div class="carousel-item">
+                        <div class="container row m-0">
+                            <div class="col card-estilo">
+                                <div class="card">
+                                    <img src="~/images/card-ultima-visita/Ultima-visita11.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$93.999</span>
+                                        <span style="color: darkgreen; font-size:15px;">12% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Mismo precio en 6 cuotas de $15.666</strong></p>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-ultima-visita/Ultima-visita12.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$98.799</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-ultima-visita/Ultima-visita13.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$64.999</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-ultima-visita/Ultima-visita14.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$98.499</span>
+                                        <span style="color: darkgreen; font-size:15px;">35% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Mismo precio en 3 cuotas de $32.833</strong></p>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-ultima-visita/Ultima-visita15.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$100.299</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>                 
+                </div>
+                <button class="carousel-control-prev boton-carrusel-antes" type="button" data-bs-target="#carruselUltimaVisita" data-bs-slide="prev">                    
+                    <span class="carousel-control-prev-icon" aria-hidden="true"><i class="fa-solid fa-chevron-left" style="color:blue; font-size:30px;"></i></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next boton-carrusel-sig" type="button" data-bs-target="#carruselUltimaVisita" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"><i class="fa-solid fa-chevron-right" style="color:blue; font-size:30px;"></i></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>        
+        </div>
+    </div>
+
+    <!--Carrusel con 5 card - Relacionado con tus visitas en Alimentos y Bebidas-->
+
+    <div class="pt-2 mt-5">
+        <div class="row container">            
+            <div>
+                <h2 class="titulos">Relacionado con tus visitas en Alimentos y Bebidas
+                    <a class="link-titulos" href="#">Ver historial</a>
+                </h2>                
+            </div>
+            <div id="carouselAlimentosBebidas" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="container row m-0">
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-alimentos-bebidas/bebida1.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$6.229</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis Full</strong></p>                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-alimentos-bebidas/bebida2.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$3072,44</span>
+                                        <span style="color: darkgreen; font-size:15px;">32% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Full</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-alimentos-bebidas/bebida3.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$2.290</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-alimentos-bebidas/bebida4.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$6.520</span>                                       
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-alimentos-bebidas/bebida5.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$1.757</span>
+                                        <span style="color: darkgreen; font-size:15px;">27% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>   
+                    <div class="carousel-item">
+                        <div class="container row m-0">
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-alimentos-bebidas/bebida6.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$1.450</span>                                                                                
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-alimentos-bebidas/bebida7.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$4.452</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-alimentos-bebidas/bebida8.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$5.671</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-alimentos-bebidas/bebida9.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$6.802,32</span>
+                                        <span style="color: darkgreen; font-size:15px;">41% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis Full</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-alimentos-bebidas/bebida10.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$4.650</span>
+                                        <span style="color: darkgreen; font-size:15px;">27% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> 
+                    <div class="carousel-item">
+                        <div class="container row m-0">
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-alimentos-bebidas/bebida11.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$1.690</span>                                
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-alimentos-bebidas/bebida12.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$2.200</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-alimentos-bebidas/bebida13.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$7.920</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-alimentos-bebidas/bebida14.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$1.794</span>                                       
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-alimentos-bebidas/bebida15.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$5.640</span>
+                                        <span style="color: darkgreen; font-size:15px;">27% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>               
+                </div>
+                <button class="carousel-control-prev boton-carrusel-antes" type="button" data-bs-target="#carouselAlimentosBebidas" data-bs-slide="prev">                    
+                    <span class="carousel-control-prev-icon" aria-hidden="true"><i class="fa-solid fa-chevron-left" style="color:blue; font-size:30px;"></i></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next boton-carrusel-sig" type="button" data-bs-target="#carouselAlimentosBebidas" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"><i class="fa-solid fa-chevron-right" style="color:blue; font-size:30px;"></i></span>
+                    <span class="visually-hidden">Next</span>
+                </button>                
+            </div>        
+        </div>
+    </div>
+
+    <!--Carrusel con 5 card - Ofertas-->
+
+    <div class="pt-2 mt-5">
+        <div class="row container">
+            <div>
+                <h2 class="titulos">Ofertas
+                    <a class="link-titulos" href="#">Ver todas</a>
+                </h2>                
+            </div>
+            <div id="carouselOfertas" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="container row m-0">
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/Card-Ofertas/oferta1.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$139.999</span>                                        
+                                        <span style="color: darkgreen; font-size:15px;">35% OFF</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/Card-Ofertas/oferta2.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$82.399</span>
+                                        <span style="color: darkgreen; font-size:15px;">15% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Mismo precio en 6 cuotas de $13.733</strong></p>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis Full</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/Card-Ofertas/oferta3.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$64.499</span>
+                                        <span style="color: darkgreen; font-size:15px;">25% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/Card-Ofertas/oferta4.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$11.178</span> 
+                                        <span style="color: darkgreen; font-size:15px;">17% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/Card-Ofertas/oferta5.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$24.699</span>
+                                        <span style="color: darkgreen; font-size:15px;">27% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>   
+                    <div class="carousel-item">
+                        <div class="container row m-0">
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/Card-Ofertas/oferta6.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$13.967</span>                                        
+                                        <span style="color: darkgreen; font-size:15px;">17% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/Card-Ofertas/oferta7.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$141.999</span>
+                                        <span style="color: darkgreen; font-size:15px;">27% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Mismo precio en 6 cuotas de $23.666</strong></p>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis Full</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/Card-Ofertas/oferta8.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$54.549</span>
+                                        <span style="color: darkgreen; font-size:15px;">72% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/Card-Ofertas/oferta9.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$65.999</span> 
+                                        <span style="color: darkgreen; font-size:15px;">23% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Mismo precio en 6 cuotas de $21.999</strong></p>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/Card-Ofertas/oferta10.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$38.899</span>
+                                        <span style="color: darkgreen; font-size:15px;">35% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> 
+                    <div class="carousel-item">
+                        <div class="container row m-0">
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/Card-Ofertas/oferta11.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$52.999</span>                                     
+                                        <span style="color: darkgreen; font-size:15px;">17% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Mismo precio en 3 cuotas de $17.666</strong></p>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/Card-Ofertas/oferta12.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$8.636</span>
+                                        <span style="color: darkgreen; font-size:15px;">24% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/Card-Ofertas/oferta13.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$50.999</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Mismo precio en 6 cuotas de $8.499</strong></p>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis Full</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/Card-Ofertas/oferta14.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$22.999</span> 
+                                        <span style="color: darkgreen; font-size:15px;">46% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/Card-Ofertas/oferta15.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$152.999</span>
+                                        <span style="color: darkgreen; font-size:15px;">10% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Mismo precio en 6 cuotas de $25.499</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> 
+                </div>
+                <button class="carousel-control-prev boton-carrusel-antes" type="button" data-bs-target="#carouselOfertas" data-bs-slide="prev">                    
+                    <span class="carousel-control-prev-icon" aria-hidden="true"><i class="fa-solid fa-chevron-left" style="color:blue; font-size:30px;"></i></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next boton-carrusel-sig" type="button" data-bs-target="#carouselOfertas" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"><i class="fa-solid fa-chevron-right" style="color:blue; font-size:30px;"></i></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </div>
+    </div>    
+
+    <!--Conteiner fijo con boton-->
+
+    <div class="container pt-2 mt-5">
+        <div class="card">
+            <div class="card-header encab-suscrip align-middle">
+                <div class="row">
+                    <div class="col-10 ">
+                        <h2>Suscribete al Nivel 6</h2>
+                    </div>
+                    <div class="col-2">
+                        <div class="col">
+                            <p class="precio-viejo">$1400</p>
+                        </div>
+                        <div class="col">
+                            <p class="precio-oferta">$499/mes</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item item-suscrip">
+                    <p class="baja-suscrip fs-6">Conseguí los mejores beneficios en Mercado Libre</p>
+                </li>
+                <li class="list-group-item">
+                    <div class="row gx-0">
+                        <div class="col-4">
+                            <div class="card suscrip mb-3">
+                                <div class="row g-0" style="margin-top: 60px;">
+                                    <div class="col-md-4">
+                                        <img src="~/images/logos-oferta/Disney+.png" class="img-fluid rounded-circle" />
+                                    </div>
+                                    <div class="col-md-8 suscrip">
+                                        <div class="card-body suscrip">
+                                            <h5 class="card-title suscrip">Disney+ sin cargo</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <div class="card suscrip mb-3">
+                                <div class="row g-0" style="margin-top: 60px;">
+                                    <div class="col-md-4">
+                                        <img src="~/images/logos-oferta/star+.png" class="img-fluid rounded-circle" />                                        
+                                    </div>
+                                    <div class="col-md-8 suscrip">
+                                        <div class="card-body suscrip">
+                                            <h5 class="card-title suscrip">Star+ sin cargo</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <div class="card suscrip mb-3">
+                                <div class="row g-0">
+                                    <div class="col-md-4">
+                                        <img src="~/images/logos-oferta/camion-envios.png" class="img-fluid rounded-circle" />
+                                    </div>
+                                    <div class="col-md-8 suscrip">
+                                        <div class="card-body suscrip">
+                                            <h5 class="card-title suscrip">Envíos gratis y rápidos desde $ 5.500 y
+                                                45% OFF en envíos de menos de $ 5.500</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </li>
+                <li class="list-group-item text-end">
+                    <a href="#" class="btn btn-primary">
+                        <p style="margin:0%">Suscribite</p>
+                    </a>
+                </li>
+            </ul>
+
+        </div>
+    </div>
+
+    <!--Imagenes fijas-->   
+    
+    <div class="pt-2 mt-5">
+        <div class="row container">
+            <div>
+                <h2>Beneficios de Mercado Puntos
+                    <a class="link-titulos" href="#">Ver todos los beneficios</a>
+                </h2>                
+            </div>
+            <div class="container">
+                <table>
+                    <tr>                
+                        <td>
+                            <div>
+                                <img src="~/images/imagenes-fijasx3/imagen1.png" style="width:100%" />
+                            </div>
+                        </td>
+                        <td>
+                            <div>
+                                <img src="~/images/imagenes-fijasx3/imagen2.png" style="width:100%" />
+                            </div>
+                        </td>
+                        <td>
+                            <div>
+                                <img src="~/images/imagenes-fijasx3/imagen3.png" style="width:100%" />
+                            </div>
+                        </td>                
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div> 
+
+    <!--Dos imagenes fijas una con 60% la otra con 40% BUSCAR-->
+
+    <div class="container row pt-2 mt-5">
+        <div class="container">
+                <table>
+                    <tr>                
+                        <td class="p-0">
+                            <div>
+                                <img src="~/images/amarok.png"  style="width:700px" />
+                            </div>
+                        </td>
+                        <td class="p-0">
+                            <div>
+                                <img src="~/images/amarok2.png"  style="width:522px; height: 396px" />
+                            </div>
+                        </td>               
+                    </tr>
+                </table>
+            </div>     
+    </div>    
+
+    <!--Dos imagenes fijas con un espacio en el medio-->
+
+    <div class="pt-2 mt-5">
+        <div class="row container">
+            <div>
+                <h2 class="titulos">Descubrí</h2>
+            </div>
+            <div class="container">
+                <table>
+                    <tr>
+                        <td>
+                            <div>
+                                <img src="~/images/imagenes-fijasx2/imagen1.png" style="width: 100%" />
+                            </div>
+                        </td>
+                        <td>
+                            <div>
+                                <img src="~/images/imagenes-fijasx2/imagen2.png" style="width: 100%" />
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <!--Carrusel con 5 card - Relacionado con tus visitas en Deportes y Fitness - Copiar y modificar-->
+
+    <div class="pt-2 mt-5">
+        <div class="row container">
+            <div>
+                <h2 class="titulos">Relacionado con tus visitas en Deportes y Fitness
+                    <a class="link-titulos" href="#">Ver historial</a>
+                </h2>                
+            </div>
+            <div id="carouselCarrito" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="container row m-0">
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-fitness/fit1.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$126.370</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Mismo precio en 12 cuotas de $10.530</strong></p>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-fitness/fit2.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$92.917,52</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-fitness/fit3.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$82.599</span>
+                                        <span style="color: darkgreen; font-size:15px;">41% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-fitness/fit4.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$78.141,13</span> 
+                                        <span style="color: darkgreen; font-size:15px;">5% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-fitness/fit5.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$2.970</span>
+                                        <span style="color: darkgreen; font-size:15px;">18% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Full</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="container row m-0">
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-fitness/fit6.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$77.542,13</span>                                        
+                                        <span style="color: darkgreen; font-size:15px;">31% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-fitness/fit7.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$107.800</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-fitness/fit8.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$2.690</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Full</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-fitness/fit9.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$88.916,27</span> 
+                                        <span style="color: darkgreen; font-size:15px;">5% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-fitness/fit10.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$77.418,30</span>
+                                        <span style="color: darkgreen; font-size:15px;">5% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="container row m-0">
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-fitness/fit11.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$90.530</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-fitness/fit12.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$127.870</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-fitness/fit13.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$85.999</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Mismo precio en 3 cuotas de $28.666</strong></p>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-fitness/fit14.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$88.916,27</span> 
+                                        <span style="color: darkgreen; font-size:15px;">5% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-fitness/fit15.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$2.970</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button class="carousel-control-prev boton-carrusel-antes" type="button" data-bs-target="#carouselCarrito" data-bs-slide="prev">                    
+                    <span class="carousel-control-prev-icon" aria-hidden="true"><i class="fa-solid fa-chevron-left" style="color:blue; font-size:30px;"></i></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next boton-carrusel-sig" type="button" data-bs-target="#carouselCarrito" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"><i class="fa-solid fa-chevron-right" style="color:blue; font-size:30px;"></i></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!--Carrusel con 4 card - Con tiendas-->
+
+    <div class="pt-2 mt-5">
+        <div class="row container">            
+            <div>
+                <h2 class="titulos">Relacionado con tus visitas en Alimentos y Bebidas
+                    <a class="link-titulos" href="#">Ver historial</a>
+                </h2>                
+            </div>
+            <div id="carouselMarcas" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="container p-0">
+                            <table>
+                                <tr>
+                                    <td style="width:25%; padding-right: 15px; padding-left: 0px;">
+                                        <img src="~/images/carruselx4-marcas/adidas.png" />
+                                    </td>
+                                    <td style="width:25%; padding: 15px">
+                                        <img src="~/images/carruselx4-marcas/atma.png" />
+                                    </td>
+                                    <td style="width:25%; padding: 15px">
+                                        <img src="~/images/carruselx4-marcas/fravega.png" />
+                                    </td>
+                                    <td style="width:25%; padding-left: 15px; padding-right:0px;">
+                                        <img src="~/images/carruselx4-marcas/hp.png" />
+                                    </td>                                    
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="container p-0">
+                            <table>
+                                <tr>
+                                    <td style="width:25%; padding-right: 15px; padding-left: 0px;">
+                                        <img src="~/images/carruselx4-marcas/Lego.png" />
+                                    </td>
+                                    <td style="width:25%; padding: 15px">
+                                        <img src="~/images/carruselx4-marcas/LG.png" />
+                                    </td>
+                                    <td style="width:25%; padding: 15px">
+                                        <img src="~/images/carruselx4-marcas/Peugeot.png" />
+                                    </td>
+                                    <td style="width:25%; padding-left: 15px; padding-right:0px;">
+                                        <img src="~/images/carruselx4-marcas/Philips.png" />
+                                    </td>                                    
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="container p-0">
+                            <table>
+                                <tr>
+                                    <td style="width:25%; padding-right: 15px; padding-left: 0px;">
+                                        <img src="~/images/carruselx4-marcas/Randers.png"/>
+                                    </td>
+                                    <td style="width:25%; padding: 15px">
+                                        <img src="~/images/carruselx4-marcas/Rex.png" />
+                                    </td>
+                                    <td style="width:25%; padding: 15px">
+                                        <img src="~/images/carruselx4-marcas/Samsung.png"/>
+                                    </td>
+                                    <td style="width:25%; padding-left: 15px; padding-right:0px;">
+                                        <img src="~/images/carruselx4-marcas/Simmons.png" />
+                                    </td>                                    
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselMarcas" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselMarcas" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>        
+        </div>
+    </div>
+
+    <!--Carrusel con 5 card - Inspirados en tus favoritos -->
+
+    <div class="pt-2 mt-5">
+        <div class="row container">
+            <div>
+                <h2 class="titulos">Inspirados en tus favoritos
+                    <a class="link-titulos" href="#">Ver favoritos</a>
+                </h2>                
+            </div>
+            <div id="carouselTusFavoritos" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="container row m-0">
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-tus-favoritos/tus-fav1.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$4.088</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-tus-favoritos/tus-fav2.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$2.719,98</span>
+                                        <span style="color: darkgreen; font-size:15px;">15% OFF</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-tus-favoritos/tus-fav3.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$4.190</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-tus-favoritos/tus-fav4.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$3.449</span> 
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-tus-favoritos/tus-fav5.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$5.439,98</span>
+                                        <span style="color: darkgreen; font-size:15px;">15% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="container row m-0">
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-tus-favoritos/tus-fav6.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$3.490</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-tus-favoritos/tus-fav7.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$3.284</span>
+                                        <span style="color: darkgreen; font-size:15px;">11% OFF</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-tus-favoritos/tus-fav8.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$6.478</span>                                        
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-tus-favoritos/tus-fav9.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$2.990</span> 
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-tus-favoritos/tus-fav10.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$3.749,25</span>
+                                        <span style="color: darkgreen; font-size:15px;">25% OFF</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="container row m-0">
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-tus-favoritos/tus-fav11.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$7.989,98</span>                                        
+                                        <span style="color: darkgreen; font-size:15px;">15% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-tus-favoritos/tus-fav12.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$5.298</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-tus-favoritos/tus-fav13.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$2.300</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-tus-favoritos/tus-fav14.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$4.800</span> 
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-tus-favoritos/tus-fav15.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$2.719,98</span>
+                                        <span style="color: darkgreen; font-size:15px;">15% OFF</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button class="carousel-control-prev boton-carrusel-antes" type="button" data-bs-target="#carouselTusFavoritos" data-bs-slide="prev">                    
+                    <span class="carousel-control-prev-icon" aria-hidden="true"><i class="fa-solid fa-chevron-left" style="color:blue; font-size:30px;"></i></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next boton-carrusel-sig" type="button" data-bs-target="#carouselTusFavoritos" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"><i class="fa-solid fa-chevron-right" style="color:blue; font-size:30px;"></i></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!--Carrusel con 5 card - Basado en tu carrito de compras - Copiar y modificar-->
+
+    <div class="pt-2 mt-5">
+        <div class="row container">
+            <div>
+                <h2 class="titulos">Basado en tu carrito de compras
+                    <a class="link-titulos" href="#">Ver carrito</a>
+                </h2>                
+            </div>
+            <div id="carouselCarrito" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="container row m-0">
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-carrito/carrito1.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$1.499</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-carrito/carrito2.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$7.700</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-carrito/carrito3.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$2.199</span>
+                                        <span style="color: darkgreen; font-size:15px;">45% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Full</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-carrito/carrito4.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$5.409</span> 
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-carrito/carrito5.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$2.970</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="container row m-0">
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-carrito/carrito6.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$6.999</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis Full</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-carrito/carrito7.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$981</span>
+                                        <span style="color: darkgreen; font-size:15px;">10% OFF</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-carrito/carrito8.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$8.499</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis Full</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-carrito/carrito9.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$799</span> 
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-carrito/carrito10.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$6.039</span>                                        
+                                        <span style="color: darkgreen; font-size:15px;">10% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis Full</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="container row m-0">
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-carrito/carrito11.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$5.999</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis Full</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-carrito/carrito12.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$2.199</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-carrito/carrito13.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$3.450</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-carrito/carrito14.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$2.799</span> 
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-carrito/carrito15.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$1.299</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button class="carousel-control-prev boton-carrusel-antes" type="button" data-bs-target="#carouselCarrito" data-bs-slide="prev">                    
+                    <span class="carousel-control-prev-icon" aria-hidden="true"><i class="fa-solid fa-chevron-left" style="color:blue; font-size:30px;"></i></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next boton-carrusel-sig" type="button" data-bs-target="#carouselCarrito" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"><i class="fa-solid fa-chevron-right" style="color:blue; font-size:30px;"></i></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </div>
+    </div>    
+
+    <!--Dos imagenes fijas con un espacio en el medio-->
+
+    <div class="pt-2 mt-5">
+        <div class="row container">
+            <div>
+                <h2 class="titulos">Te puede interesar</h2>
+            </div>
+            <div class="container">
+                <table>
+                    <tr>
+                        <td>
+                            <div>
+                                <img src="~/images/imagenes-fijasx2/imagen3.png" style="width: 100%" />
+                            </div>
+                        </td>
+                        <td>
+                            <div>
+                                <img src="~/images/imagenes-fijasx2/imagen4.png" style="width: 100%" />
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <!--Carrusel con 5 card - Relacionado con tu última compra - Copiar y modificar-->
+
+    <div class="pt-2 mt-5">
+        <div class="row container">
+            <div>
+                <h2 class="titulos">Relacionado con tu última compra
+                    <a class="link-titulos" href="#">Ver compras</a>
+                </h2>                
+            </div>
+            <div id="carouselCompra" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="container row m-0">
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-compra/compra1.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$17.990</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-compra/compra2.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$2.749</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-compra/compra3.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$4.200</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-compra/compra4.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$6.399</span> 
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-compra/compra5.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$8.300</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="container row m-0">
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-compra/compra6.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$8.700</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-compra/compra7.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$4.800</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-compra/compra8.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$2.850</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Full</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-compra/compra9.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$7.199,10</span> 
+                                        <span style="color: darkgreen; font-size:15px;">10% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-compra/compra10.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$5.224,05</span>
+                                        <span style="color: darkgreen; font-size:15px;">5% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Full</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="container row m-0">
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-compra/compra11.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$5.849,10</span>
+                                        <span style="color: darkgreen; font-size:15px;">10% OFF</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-compra/compra12.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$8.300</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-compra/compra13.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$8.700</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-compra/compra14.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$4.999</span> 
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="~/images/card-compra/compra15.png" class="card-img-top imagen-card">
+                                    <div class="card-body">
+                                        <span class="card-title">$7.500</span>
+                                        <p class="card-text" style="color: darkgreen"><strong>Envío gratis</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button class="carousel-control-prev boton-carrusel-antes" type="button" data-bs-target="#carouselCompra" data-bs-slide="prev">                    
+                    <span class="carousel-control-prev-icon" aria-hidden="true"><i class="fa-solid fa-chevron-left" style="color:blue; font-size:30px;"></i></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next boton-carrusel-sig" type="button" data-bs-target="#carouselCompra" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"><i class="fa-solid fa-chevron-right" style="color:blue; font-size:30px;"></i></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!--Carrusel con 14 iconos, tabla de 7 x 2 x 3 item - ... - Copiar y modificar-->    
+
+    <section class="pt-2 mt-5">
+        <div class="row container">
+            <div>
+                <h2 class="titulos">Categorias populares</h2>
+            </div>
+            <div id="carouselIconos" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="container">
+                            <table class="tabla-iconos">
+                                <tr>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">                                               
+                                                <i class="fa-solid fa-car icon"></i>
+                                                <p>Autos, Motos y Otros</p>                                                
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-computer icon"></i>
+                                                <p>Computación</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-blender icon"></i>
+                                                <p>Electrodomésticos y Aires Ac.</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-volleyball icon"></i>
+                                                <p>Deportes y Fitness</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-hotel icon"></i>
+                                                <p>Inmuebles</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-wand-magic-sparkles icon"></i>
+                                                <p>Belleza y Cuidad Personal</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-dragon icon"></i>
+                                                <p>Juegos y Juguetes</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-mobile-screen icon"></i>
+                                                <p>Celulares y Teléfonos</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-microphone-lines icon"></i>
+                                                <p>Electrónica, Audio y Video</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-shirt icon"></i>
+                                                <p>Ropa y Accesorios</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-couch icon"></i>
+                                                <p>Hogar, Muebles y Jardín</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-gear icon"></i>
+                                                <p>Accesorios para Vehículos</p>
+                                            </button class="BotonIcono">
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-gamepad icon"></i>
+                                                <p>Consolas y Videojuegos</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-martini-glass icon"></i>
+                                                <p>Alimentos y Bebidas</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="container">
+                            <table>
+                                <tr>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-ticket icon"></i>
+                                                <p>Entrada para Eventos</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-baby-carriage icon"></i>
+                                                <p>Bebés</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-regular fa-clock icon"></i>
+                                                <p>Joyas y Relojes</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-book icon"></i>
+                                                <p>Libros, Revistas y Comics</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-bone icon"></i>                                                
+                                                <p>Animales y Mascotas</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-music icon"></i>
+                                                <p>Música, Películas y Series</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-palette icon"></i>
+                                                <p>Arte, Librería y Mercería</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-martini-glass icon"></i>
+                                                <p>Herramientas</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-camera-retro icon"></i>
+                                                <p>Cámaras y Accesorios</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-industry icon"></i>
+                                                <p>Industria y Oficinas</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-guitar icon"></i>
+                                                <p>Instumentos Musicales</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-hourglass-start icon"></i>
+                                                <p>Antigüedades y Colecciones</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-binoculars icon"></i>
+                                                <p>Salud y Equipamiento Médico</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-users icon"></i>
+                                                <p>Servicios</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="container">
+                            <table>
+                                <tr>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-tractor icon"></i>
+                                                <p>Agro</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-candy-cane icon"></i>
+                                                <p>Souvenirs, Cotillón y Fiestas</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-helmet-safety icon"></i>
+                                                <p>Construcción</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-brands fa-bitcoin icon"></i>
+                                                <p>Criptomonedas</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-smoking icon"></i>
+                                                <p>Artículos para Fumadores</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-taxi icon"></i>
+                                                <p>Licencias para Taxis</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-water-ladder icon"></i>
+                                                <p>Productos para Piletas</p>                                                
+                                            </button>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-skull-crossbones icon"></i>
+                                                <p>Adultos</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-umbrella-beach icon"></i>
+                                                <p>Accesorios para Playa</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-tv icon"></i>
+                                                <p>Televisores</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-shop icon"></i>
+                                                <p>Tiendas Oficiales</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-cart-shopping icon"></i>
+                                                <p>Supermercados</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-hand-holding-dollar icon"></i>
+                                                <p>Más Vendidos</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="col">
+                                            <button class="BotonIcono">
+                                                <i class="fa-solid fa-braille icon"></i>
+                                                <p>Otras Categorías</p>
+                                            </button>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselIconos" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselIconos" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!--Carrusel con 7 card que se pueda eliminar cuando se pase por arrba que muentre descripción- Tu historial - Copiar y modificar-->
+
+    <div class="pt-2 mt-5">
+        <div class="row container">
+            <div>
+                <h2 class="titulos">Tu historial
+                    <a class="link-titulos" href="#">Ver historial completo</a>
+                </h2>                
+            </div>
+            <div id="carouselHistorial" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="container row m-0">
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial1.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Radio Reloj Eurotime Am Fm 220v 35/509-</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial2.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Radio Reloj Despertador Alarma</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial3.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Mountain bike Shiifter R26</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial4.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Bicicleta Mountain Bike Shifter R29 21v</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial5.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Mountain bike Futura Techno 026 18" 21v</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial6.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Bicicleta Silverfox FM18SI29AM211</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial7.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Mountain bike Battle 210 R29 18" </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="container row m-0">
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial8.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Bicicleta Mtb Battle 211 R29 21v Aluminio</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial9.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Campana Imitaci+on Antigua Grande</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial10.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Balanza Antigua</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial11.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Antigua Lámpara A Kerosene Metal Gris</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial12.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Juego De Té Antiguo Completo Tsuji Old</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial13.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Servicio De Café Porcelana Tsuji</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial14.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Memoria Ram Ddr4 Crucial Ballistix Sport" </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="container row m-0">
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial15.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Mother Asus Rog Strix B350-f impecable!!</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial16.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Motherboard Amd Gigabyte Ga-a320m-h</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial17.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Gin Bombay Sapphire London Dry 750ml</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial18.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Gin Beefeater London Dry 1L clásico</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial19.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Notebook Asus Vivobook I3 10ma</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial20.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Vino Las Perdices Bag In Box Duo Reserva 3</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col p-2" style="height: 300px; ">
+                                <div class="card historial" style="height: 100%; border:none;">
+                                    <img src="~/images/card-historial-por-7/historial21.png" class="card-img-top imagen-card">
+                                    <div class="card-body historial">
+                                        <p class="text-center p-3 mb-0">Gin Beefeater 24 London Dry 750ml" </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button class="carousel-control-prev boton-carrusel-antes-his" type="button" data-bs-target="#carouselHistorial" data-bs-slide="prev">                    
+                    <span class="carousel-control-prev-icon" aria-hidden="true"><i class="fa-solid fa-chevron-left" style="color:blue; font-size:30px;"></i></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next boton-carrusel-sig-his" type="button" data-bs-target="#carouselHistorial" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"><i class="fa-solid fa-chevron-right" style="color:blue; font-size:30px;"></i></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    
+
+      
+
+    <footer style="background-color:white;" class="pt-2 mt-5">
+
+        <!--Tabla 3 por uno con imagen y descripción-->
+
+        <div class="container row">
+            <table>
+                <tr>
+                    <td style="text-align:center; padding: 10px;">
+                        <i class="fa-regular fa-id-card icon" style="color:gray"></i>
+                        <h4>Elegí como pagar</h4>
+                        <p>Podés pagar con tarjeta, débito, efectivo o hasta 12 cuotas sin tarjeta con Mercado Crédito.</p>
+                        <a href="#" class="enlase-menu-forma-pago">Cómo pagar tus compras</a>
+                    </td>
+                    <td style="text-align:center; padding: 10px;">
+                        <i class="fa-solid fa-boxes-packing icon" style="color:gray"></i>
+                        <h4>Envío gratis desde $ 5.500</h4>
+                        <p>Solo por estar registrado en Mercado Libre tenés envíos gratis en miles de productos. Es un beneficio de Mercado Puntos.</p>
+                        <a href="#" class="enlase-menu-forma-pago">Conocé más sobre este beneficio</a>
+                    </td>
+                    <td style="text-align:center; padding: 10px;">
+                        <i class="fa-solid fa-shield icon" style="color:gray"></i>
+                        <h4>Seguridad, de principio a fin</h4>
+                        <p>¿No te gusta? ¡Devolvelo! En Mercado Libre, no hay nada que no puedas hacer, porque estás siempre protegido.</p>
+                        <a href="#" class="enlase-menu-forma-pago">Cómo te protegemos</a>
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+        <!--Tabla 2 por uno con espacio en el medio-->
+
+        <div class="container row">
+            <div class="col footer-2colum" >             
+                <ul class="p-0 m-0">
+                    <li style="list-style-type:none;"><p class="m-0">Botón de arrepentimiento</p></li>
+                    <li style="list-style-type:none;"><a href="#" class="enlase-menu-forma-pago">Cancelar una compra</a></li>
+                    <li style="list-style-type:none;"><a href="#" class="enlase-menu-forma-pago">Cancelar una suscripción</a></li>
+                    <li style="list-style-type:none;"><a href="#" class="enlase-menu-forma-pago">Cancelar un seguro o garantía</a></li>
+                </ul>               
+            </div>
+            <div class="col footer-2colum">
+                <ul style="padding: 24px 0px 24px 0px; margin:0px;">
+                    <li style="list-style-type:none;"><p class="m-0">Conocé las normas que aplican cuando comprás</p></li>
+                    <li style="list-style-type:none;"><a href="#" class="enlase-menu-forma-pago">Ver contratos de adhesión - Ley N.º 24.240 de Defensa del Consumidor</a></li>
+                </ul>               
+            </div>
+        </div>       
+
+        <!--3 imagenes -->  
+        
+        <div style="text-align-last:end;">
+            <img src="~/images/footer/ssn.png" />
+            <img src="~/images/footer/sin título.png" />
+            <img src="~/images/footer/qr.png" />
+        </div>
+
+        <!--Menu que vaya hacia abajo con 6 columnas y links-->
+        
+        <nav>
+            <div class="nav-tabs nav-item" id="nav-tab" role="tablist">
+                <button class="nav-link active dropdown-toggle dropdown" id="nav-home-tab" data-bs-toggle="collapse" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true" style="background-color: #f7f7f7; left: 43%; position: relative;">
+                    Mas información
+                </button>
+                <div class="tab-content" id="nav-tabContent" style="background-color: #f7f7f7;">
+                    <div class="fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab" tabindex="0">
+                        <div class="container row pt-5 pb-5">
+                            <div class="col">
+                                <ul>
+                                    <li style="list-style-type:none;"><h6>Acerca de</h6></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Mercado Libre</a></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Investor relations</a></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Tendencias</a></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Sustentabilidad</a></li>
+                                </ul>
+                            </div>
+                            <div class="col">
+                                <ul>
+                                    <li style="list-style-type:none;"><h6>Otros sitios</h6></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Developers</a></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Mercado Pago</a></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Mercado Shops</a></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Mercado Envíos</a></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Mercado Ads</a></li>
+                                </ul>
+                            </div>
+                            <div class="col">
+                                <ul>
+                                    <li style="list-style-type:none;"><h6>Ayuda</h6></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Comprar</a></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Vender</a></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Resolución de problemas</a></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Centro de seguridad</a></li>
+                                </ul>
+                            </div>
+                            <div class="col">
+                                <ul>
+                                    <li style="list-style-type:none;"><h6>Redes sociales</h6></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Twitter</a></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Facebook</a></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Instagram</a></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">YouTube</a></li>
+                                </ul> 
+                            </div>
+                            <div class="col">
+                                <ul>
+                                    <li style="list-style-type:none;"><h6>Mi cuenta</h6></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Resumen</a></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Favoritos</a></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Vender</a></li>
+                                </ul>   
+                            </div>
+                            <div class="col">
+                                <ul>
+                                    <li style="list-style-type:none;"><h6>Mercado Puntos</h6></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Nivel 6</a></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Disney+</a></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Star+</a></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">HBO MAX</a></li>
+                                    <li style="list-style-type:none;"><a href="#" class="link-footer">Paramount+</a></li>
+                                </ul>
+                            </div>
+                        </div>                
+                    </div>
+                </div>
+            </div>            
+        </nav>        
+
+        <!--8 links y un texto fijo-->
+
+        <div class="container row">
+            <table>
+                <tr>
+                    <td><a href="#" class="link-footer" style="font-size:13px; color:black; text-align:center;">Trabajá con nosotros</a></td>
+                    <td><a href="#" class="link-footer" style="font-size:13px; color:black; text-align:center;">Términos y condiciones</a></td>
+                    <td><a href="#" class="link-footer" style="font-size:13px; color:black; text-align:center;">Cómo cuidamos tu privacidad</a></td>
+                    <td><a href="#" class="link-footer" style="font-size:13px; color:black; text-align:center;">Accecibilidad</a></td>
+                    <td><a href="#" class="link-footer" style="font-size:13px; color:black; text-align:center;">Información al usuario financiero</a></td>
+                    <td><a href="#" class="link-footer" style="font-size:13px; color:black; text-align:center;">Ayuda</a></td>
+                    <td><a href="#" class="link-footer" style="font-size:13px; color:black; text-align:center;">Defensa al consumidor</a></td>
+                    <td><a href="#" class="link-footer" style="font-size:13px; color:black; text-align:center;">Información sobre seguros</a></td>
+                </tr>
+            </table>                        
+        </div>
+
+        <p style="color:grey;" class="mt-1 mb-0 ms-3"> Copyright © 1999-2023 MercadoLibre S.R.L.</p>
+        <p style="color:grey;" class="mt- mb-0 ms-3">Av. Caseros 3039, Piso 2, CP 1264, Parque Patricios, CABA</p>
+
+    </footer>
+</body>
+</html>
