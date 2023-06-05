@@ -1,1091 +1,1099 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Proyecto-pagina.bundle.scp.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Proyecto-pagina.bundle.scp.css",
       "PackagePath": "staticwebassets\\Proyecto-pagina.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\439582455a841b953393520397f78aa4.jpg",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\439582455a841b953393520397f78aa4.jpg",
       "PackagePath": "staticwebassets\\Images\\439582455a841b953393520397f78aa4.jpg"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Amarok.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Amarok.png",
       "PackagePath": "staticwebassets\\Images\\Amarok.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Amarok2.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Amarok2.png",
       "PackagePath": "staticwebassets\\Images\\Amarok2.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\AudioTV\\audio1.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\AudioTV\\audio1.png",
       "PackagePath": "staticwebassets\\Images\\AudioTV\\audio1.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\AudioTV\\audio2.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\AudioTV\\audio2.png",
       "PackagePath": "staticwebassets\\Images\\AudioTV\\audio2.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\AudioTV\\audio3.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\AudioTV\\audio3.png",
       "PackagePath": "staticwebassets\\Images\\AudioTV\\audio3.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\AudioTV\\audio4.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\AudioTV\\audio4.png",
       "PackagePath": "staticwebassets\\Images\\AudioTV\\audio4.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\AudioTV\\audio5.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\AudioTV\\audio5.png",
       "PackagePath": "staticwebassets\\Images\\AudioTV\\audio5.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Campana-icono.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Campana-icono.png",
       "PackagePath": "staticwebassets\\Images\\Campana-icono.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida1.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida1.png",
       "PackagePath": "staticwebassets\\Images\\Card-Alimentos-Bebidas\\bebida1.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida10.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida10.png",
       "PackagePath": "staticwebassets\\Images\\Card-Alimentos-Bebidas\\bebida10.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida11.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida11.png",
       "PackagePath": "staticwebassets\\Images\\Card-Alimentos-Bebidas\\bebida11.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida12.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida12.png",
       "PackagePath": "staticwebassets\\Images\\Card-Alimentos-Bebidas\\bebida12.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida13.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida13.png",
       "PackagePath": "staticwebassets\\Images\\Card-Alimentos-Bebidas\\bebida13.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida14.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida14.png",
       "PackagePath": "staticwebassets\\Images\\Card-Alimentos-Bebidas\\bebida14.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida15.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida15.png",
       "PackagePath": "staticwebassets\\Images\\Card-Alimentos-Bebidas\\bebida15.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida2.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida2.png",
       "PackagePath": "staticwebassets\\Images\\Card-Alimentos-Bebidas\\bebida2.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida3.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida3.png",
       "PackagePath": "staticwebassets\\Images\\Card-Alimentos-Bebidas\\bebida3.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida4.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida4.png",
       "PackagePath": "staticwebassets\\Images\\Card-Alimentos-Bebidas\\bebida4.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida5.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida5.png",
       "PackagePath": "staticwebassets\\Images\\Card-Alimentos-Bebidas\\bebida5.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida6.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida6.png",
       "PackagePath": "staticwebassets\\Images\\Card-Alimentos-Bebidas\\bebida6.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida7.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida7.png",
       "PackagePath": "staticwebassets\\Images\\Card-Alimentos-Bebidas\\bebida7.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida8.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida8.png",
       "PackagePath": "staticwebassets\\Images\\Card-Alimentos-Bebidas\\bebida8.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida9.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Alimentos-Bebidas\\bebida9.png",
       "PackagePath": "staticwebassets\\Images\\Card-Alimentos-Bebidas\\bebida9.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito1.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito1.png",
       "PackagePath": "staticwebassets\\Images\\Card-Carrito\\carrito1.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito10.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito10.png",
       "PackagePath": "staticwebassets\\Images\\Card-Carrito\\carrito10.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito11.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito11.png",
       "PackagePath": "staticwebassets\\Images\\Card-Carrito\\carrito11.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito12.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito12.png",
       "PackagePath": "staticwebassets\\Images\\Card-Carrito\\carrito12.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito13.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito13.png",
       "PackagePath": "staticwebassets\\Images\\Card-Carrito\\carrito13.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito14.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito14.png",
       "PackagePath": "staticwebassets\\Images\\Card-Carrito\\carrito14.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito15.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito15.png",
       "PackagePath": "staticwebassets\\Images\\Card-Carrito\\carrito15.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito2.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito2.png",
       "PackagePath": "staticwebassets\\Images\\Card-Carrito\\carrito2.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito3.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito3.png",
       "PackagePath": "staticwebassets\\Images\\Card-Carrito\\carrito3.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito4.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito4.png",
       "PackagePath": "staticwebassets\\Images\\Card-Carrito\\carrito4.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito5.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito5.png",
       "PackagePath": "staticwebassets\\Images\\Card-Carrito\\carrito5.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito6.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito6.png",
       "PackagePath": "staticwebassets\\Images\\Card-Carrito\\carrito6.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito7.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito7.png",
       "PackagePath": "staticwebassets\\Images\\Card-Carrito\\carrito7.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito8.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito8.png",
       "PackagePath": "staticwebassets\\Images\\Card-Carrito\\carrito8.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito9.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Carrito\\carrito9.png",
       "PackagePath": "staticwebassets\\Images\\Card-Carrito\\carrito9.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra1.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra1.png",
       "PackagePath": "staticwebassets\\Images\\Card-Compra\\compra1.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra10.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra10.png",
       "PackagePath": "staticwebassets\\Images\\Card-Compra\\compra10.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra11.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra11.png",
       "PackagePath": "staticwebassets\\Images\\Card-Compra\\compra11.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra12.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra12.png",
       "PackagePath": "staticwebassets\\Images\\Card-Compra\\compra12.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra13.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra13.png",
       "PackagePath": "staticwebassets\\Images\\Card-Compra\\compra13.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra14.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra14.png",
       "PackagePath": "staticwebassets\\Images\\Card-Compra\\compra14.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra15.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra15.png",
       "PackagePath": "staticwebassets\\Images\\Card-Compra\\compra15.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra2.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra2.png",
       "PackagePath": "staticwebassets\\Images\\Card-Compra\\compra2.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra3.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra3.png",
       "PackagePath": "staticwebassets\\Images\\Card-Compra\\compra3.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra4.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra4.png",
       "PackagePath": "staticwebassets\\Images\\Card-Compra\\compra4.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra5.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra5.png",
       "PackagePath": "staticwebassets\\Images\\Card-Compra\\compra5.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra6.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra6.png",
       "PackagePath": "staticwebassets\\Images\\Card-Compra\\compra6.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra7.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra7.png",
       "PackagePath": "staticwebassets\\Images\\Card-Compra\\compra7.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra8.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra8.png",
       "PackagePath": "staticwebassets\\Images\\Card-Compra\\compra8.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra9.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Compra\\compra9.png",
       "PackagePath": "staticwebassets\\Images\\Card-Compra\\compra9.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit1.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit1.png",
       "PackagePath": "staticwebassets\\Images\\Card-Fitness\\fit1.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit10.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit10.png",
       "PackagePath": "staticwebassets\\Images\\Card-Fitness\\fit10.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit11.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit11.png",
       "PackagePath": "staticwebassets\\Images\\Card-Fitness\\fit11.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit12.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit12.png",
       "PackagePath": "staticwebassets\\Images\\Card-Fitness\\fit12.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit13.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit13.png",
       "PackagePath": "staticwebassets\\Images\\Card-Fitness\\fit13.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit14.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit14.png",
       "PackagePath": "staticwebassets\\Images\\Card-Fitness\\fit14.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit15.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit15.png",
       "PackagePath": "staticwebassets\\Images\\Card-Fitness\\fit15.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit2.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit2.png",
       "PackagePath": "staticwebassets\\Images\\Card-Fitness\\fit2.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit3.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit3.png",
       "PackagePath": "staticwebassets\\Images\\Card-Fitness\\fit3.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit4.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit4.png",
       "PackagePath": "staticwebassets\\Images\\Card-Fitness\\fit4.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit5.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit5.png",
       "PackagePath": "staticwebassets\\Images\\Card-Fitness\\fit5.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit6.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit6.png",
       "PackagePath": "staticwebassets\\Images\\Card-Fitness\\fit6.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit7.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit7.png",
       "PackagePath": "staticwebassets\\Images\\Card-Fitness\\fit7.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit8.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit8.png",
       "PackagePath": "staticwebassets\\Images\\Card-Fitness\\fit8.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit9.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Fitness\\fit9.png",
       "PackagePath": "staticwebassets\\Images\\Card-Fitness\\fit9.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta1.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta1.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ofertas\\oferta1.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta10.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta10.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ofertas\\oferta10.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta11.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta11.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ofertas\\oferta11.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta12.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta12.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ofertas\\oferta12.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta13.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta13.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ofertas\\oferta13.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta14.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta14.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ofertas\\oferta14.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta15.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta15.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ofertas\\oferta15.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta2.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta2.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ofertas\\oferta2.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta3.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta3.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ofertas\\oferta3.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta4.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta4.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ofertas\\oferta4.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta5.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta5.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ofertas\\oferta5.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta6.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta6.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ofertas\\oferta6.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta7.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta7.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ofertas\\oferta7.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta8.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta8.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ofertas\\oferta8.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta9.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ofertas\\oferta9.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ofertas\\oferta9.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav1.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav1.png",
       "PackagePath": "staticwebassets\\Images\\Card-Tus-Favoritos\\tus-fav1.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav10.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav10.png",
       "PackagePath": "staticwebassets\\Images\\Card-Tus-Favoritos\\tus-fav10.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav11.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav11.png",
       "PackagePath": "staticwebassets\\Images\\Card-Tus-Favoritos\\tus-fav11.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav12.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav12.png",
       "PackagePath": "staticwebassets\\Images\\Card-Tus-Favoritos\\tus-fav12.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav13.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav13.png",
       "PackagePath": "staticwebassets\\Images\\Card-Tus-Favoritos\\tus-fav13.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav14.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav14.png",
       "PackagePath": "staticwebassets\\Images\\Card-Tus-Favoritos\\tus-fav14.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav15.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav15.png",
       "PackagePath": "staticwebassets\\Images\\Card-Tus-Favoritos\\tus-fav15.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav2.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav2.png",
       "PackagePath": "staticwebassets\\Images\\Card-Tus-Favoritos\\tus-fav2.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav3.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav3.png",
       "PackagePath": "staticwebassets\\Images\\Card-Tus-Favoritos\\tus-fav3.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav4.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav4.png",
       "PackagePath": "staticwebassets\\Images\\Card-Tus-Favoritos\\tus-fav4.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav5.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav5.png",
       "PackagePath": "staticwebassets\\Images\\Card-Tus-Favoritos\\tus-fav5.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav6.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav6.png",
       "PackagePath": "staticwebassets\\Images\\Card-Tus-Favoritos\\tus-fav6.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav7.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav7.png",
       "PackagePath": "staticwebassets\\Images\\Card-Tus-Favoritos\\tus-fav7.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav8.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav8.png",
       "PackagePath": "staticwebassets\\Images\\Card-Tus-Favoritos\\tus-fav8.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav9.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Tus-Favoritos\\tus-fav9.png",
       "PackagePath": "staticwebassets\\Images\\Card-Tus-Favoritos\\tus-fav9.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita1.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita1.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ultima-Visita\\Ultima-visita1.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita10.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita10.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ultima-Visita\\Ultima-visita10.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita11.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita11.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ultima-Visita\\Ultima-visita11.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita12.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita12.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ultima-Visita\\Ultima-visita12.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita13.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita13.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ultima-Visita\\Ultima-visita13.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita14.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita14.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ultima-Visita\\Ultima-visita14.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita15.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita15.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ultima-Visita\\Ultima-visita15.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita2.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita2.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ultima-Visita\\Ultima-visita2.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita3.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita3.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ultima-Visita\\Ultima-visita3.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita4.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita4.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ultima-Visita\\Ultima-visita4.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita5.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita5.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ultima-Visita\\Ultima-visita5.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita6.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita6.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ultima-Visita\\Ultima-visita6.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita7.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita7.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ultima-Visita\\Ultima-visita7.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita8.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita8.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ultima-Visita\\Ultima-visita8.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita9.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-Ultima-Visita\\Ultima-visita9.png",
       "PackagePath": "staticwebassets\\Images\\Card-Ultima-Visita\\Ultima-visita9.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial1.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial1.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial1.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial10.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial10.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial10.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial11.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial11.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial11.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial12.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial12.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial12.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial13.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial13.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial13.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial14.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial14.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial14.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial15.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial15.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial15.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial16.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial16.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial16.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial17.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial17.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial17.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial18.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial18.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial18.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial19.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial19.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial19.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial2.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial2.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial2.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial20.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial20.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial20.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial21.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial21.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial21.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial3.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial3.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial3.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial4.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial4.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial4.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial5.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial5.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial5.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial6.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial6.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial6.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial7.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial7.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial7.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial8.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial8.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial8.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial9.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Card-historial-por-7\\historial9.png",
       "PackagePath": "staticwebassets\\Images\\Card-historial-por-7\\historial9.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\Adidas.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Carrito-logo.png",
+      "PackagePath": "staticwebassets\\Images\\Carrito-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\Adidas.png",
       "PackagePath": "staticwebassets\\Images\\Carruselx4-marcas\\Adidas.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\Atma.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\Atma.png",
       "PackagePath": "staticwebassets\\Images\\Carruselx4-marcas\\Atma.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\Fravega.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\Fravega.png",
       "PackagePath": "staticwebassets\\Images\\Carruselx4-marcas\\Fravega.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\HP.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\HP.png",
       "PackagePath": "staticwebassets\\Images\\Carruselx4-marcas\\HP.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\LG.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\LG.png",
       "PackagePath": "staticwebassets\\Images\\Carruselx4-marcas\\LG.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\Lego.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\Lego.png",
       "PackagePath": "staticwebassets\\Images\\Carruselx4-marcas\\Lego.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\Peugeot.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\Peugeot.png",
       "PackagePath": "staticwebassets\\Images\\Carruselx4-marcas\\Peugeot.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\Philips.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\Philips.png",
       "PackagePath": "staticwebassets\\Images\\Carruselx4-marcas\\Philips.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\Randers.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\Randers.png",
       "PackagePath": "staticwebassets\\Images\\Carruselx4-marcas\\Randers.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\Rex.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\Rex.png",
       "PackagePath": "staticwebassets\\Images\\Carruselx4-marcas\\Rex.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\Samsung.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\Samsung.png",
       "PackagePath": "staticwebassets\\Images\\Carruselx4-marcas\\Samsung.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\Simmons.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Carruselx4-marcas\\Simmons.png",
       "PackagePath": "staticwebassets\\Images\\Carruselx4-marcas\\Simmons.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Primer-Menu\\Cuotas-sin-tarjeta.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Primer-Menu\\Cuotas-sin-tarjeta.png",
       "PackagePath": "staticwebassets\\Images\\Cuerpo-de-pagina\\Primer-Menu\\Cuotas-sin-tarjeta.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Primer-Menu\\Efectivo.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Primer-Menu\\Efectivo.png",
       "PackagePath": "staticwebassets\\Images\\Cuerpo-de-pagina\\Primer-Menu\\Efectivo.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Primer-Menu\\Suma.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Primer-Menu\\Suma.png",
       "PackagePath": "staticwebassets\\Images\\Cuerpo-de-pagina\\Primer-Menu\\Suma.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Primer-Menu\\TC.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Primer-Menu\\TC.png",
       "PackagePath": "staticwebassets\\Images\\Cuerpo-de-pagina\\Primer-Menu\\TC.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Primer-Menu\\TD.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Primer-Menu\\TD.png",
       "PackagePath": "staticwebassets\\Images\\Cuerpo-de-pagina\\Primer-Menu\\TD.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Publicidad-1.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Publicidad-1.png",
       "PackagePath": "staticwebassets\\Images\\Cuerpo-de-pagina\\Publicidad-1.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Publicidad-2.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Publicidad-2.png",
       "PackagePath": "staticwebassets\\Images\\Cuerpo-de-pagina\\Publicidad-2.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Publicidad-3.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Publicidad-3.png",
       "PackagePath": "staticwebassets\\Images\\Cuerpo-de-pagina\\Publicidad-3.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Publicidad-4.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Publicidad-4.png",
       "PackagePath": "staticwebassets\\Images\\Cuerpo-de-pagina\\Publicidad-4.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Publicidad-5.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Publicidad-5.png",
       "PackagePath": "staticwebassets\\Images\\Cuerpo-de-pagina\\Publicidad-5.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Publicidad-6.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Cuerpo-de-pagina\\Publicidad-6.png",
       "PackagePath": "staticwebassets\\Images\\Cuerpo-de-pagina\\Publicidad-6.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Desplegable-Notis\\foto1.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Desplegable-Notis\\foto1.png",
       "PackagePath": "staticwebassets\\Images\\Desplegable-Notis\\foto1.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Desplegable-Notis\\foto2.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Desplegable-Notis\\foto2.png",
       "PackagePath": "staticwebassets\\Images\\Desplegable-Notis\\foto2.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Desplegable-Notis\\foto3.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Desplegable-Notis\\foto3.png",
       "PackagePath": "staticwebassets\\Images\\Desplegable-Notis\\foto3.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Desplegable-Notis\\foto4.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Desplegable-Notis\\foto4.png",
       "PackagePath": "staticwebassets\\Images\\Desplegable-Notis\\foto4.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Disney-Star-Nav.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Disney-Star-Nav.png",
       "PackagePath": "staticwebassets\\Images\\Disney-Star-Nav.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Footer\\LogoSSN.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Footer\\LogoSSN.png",
       "PackagePath": "staticwebassets\\Images\\Footer\\LogoSSN.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Footer\\QR.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Footer\\QR.png",
       "PackagePath": "staticwebassets\\Images\\Footer\\QR.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Footer\\Sin título.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Footer\\Sin título.png",
       "PackagePath": "staticwebassets\\Images\\Footer\\Sin título.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Footer\\ssn.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Footer\\ssn.png",
       "PackagePath": "staticwebassets\\Images\\Footer\\ssn.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Imagenes-Fijasx2\\Imagen1.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Imagenes-Fijasx2\\Imagen1.png",
       "PackagePath": "staticwebassets\\Images\\Imagenes-Fijasx2\\Imagen1.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Imagenes-Fijasx2\\Imagen2.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Imagenes-Fijasx2\\Imagen2.png",
       "PackagePath": "staticwebassets\\Images\\Imagenes-Fijasx2\\Imagen2.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Imagenes-Fijasx2\\Imagen3.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Imagenes-Fijasx2\\Imagen3.png",
       "PackagePath": "staticwebassets\\Images\\Imagenes-Fijasx2\\Imagen3.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Imagenes-Fijasx2\\Imagen4.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Imagenes-Fijasx2\\Imagen4.png",
       "PackagePath": "staticwebassets\\Images\\Imagenes-Fijasx2\\Imagen4.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Imagenes-Fijasx3\\Imagen1.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Imagenes-Fijasx3\\Imagen1.png",
       "PackagePath": "staticwebassets\\Images\\Imagenes-Fijasx3\\Imagen1.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Imagenes-Fijasx3\\Imagen2.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Imagenes-Fijasx3\\Imagen2.png",
       "PackagePath": "staticwebassets\\Images\\Imagenes-Fijasx3\\Imagen2.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Imagenes-Fijasx3\\Imagen3.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Imagenes-Fijasx3\\Imagen3.png",
       "PackagePath": "staticwebassets\\Images\\Imagenes-Fijasx3\\Imagen3.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Logos-oferta\\Disney+.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Logos-oferta\\Disney+.png",
       "PackagePath": "staticwebassets\\Images\\Logos-oferta\\Disney+.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Logos-oferta\\camion-envios.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Logos-oferta\\camion-envios.png",
       "PackagePath": "staticwebassets\\Images\\Logos-oferta\\camion-envios.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Logos-oferta\\star+.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Logos-oferta\\star+.png",
       "PackagePath": "staticwebassets\\Images\\Logos-oferta\\star+.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Mercado-libre-logo-header.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Mercado-libre-logo-header.png",
       "PackagePath": "staticwebassets\\Images\\Mercado-libre-logo-header.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\NAZ_98450fb8e3e0495795d5f72a9023b59e.webp",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\NAZ_98450fb8e3e0495795d5f72a9023b59e.webp",
       "PackagePath": "staticwebassets\\Images\\NAZ_98450fb8e3e0495795d5f72a9023b59e.webp"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Perfil-icono.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Perfil-icono.png",
       "PackagePath": "staticwebassets\\Images\\Perfil-icono.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Perfil-icono1.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Perfil-icono1.png",
       "PackagePath": "staticwebassets\\Images\\Perfil-icono1.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Perfil-icono2.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Perfil-icono2.png",
       "PackagePath": "staticwebassets\\Images\\Perfil-icono2.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Search-icon-image.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Search-icon-image.png",
       "PackagePath": "staticwebassets\\Images\\Search-icon-image.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\Images\\Ubicacion.png",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\Images\\Ubicacion.png",
       "PackagePath": "staticwebassets\\Images\\Ubicacion.png"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\css\\all.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\all.css",
       "PackagePath": "staticwebassets\\css\\all.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\css\\all.min.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\all.min.css",
       "PackagePath": "staticwebassets\\css\\all.min.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\css\\brands.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\barra-nav1.css",
+      "PackagePath": "staticwebassets\\css\\barra-nav1.css"
+    },
+    {
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\brands.css",
       "PackagePath": "staticwebassets\\css\\brands.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\css\\brands.min.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\brands.min.css",
       "PackagePath": "staticwebassets\\css\\brands.min.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\css\\css-Index.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\css-Index.css",
       "PackagePath": "staticwebassets\\css\\css-Index.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\css\\fontawesome.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\fontawesome.css",
       "PackagePath": "staticwebassets\\css\\fontawesome.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\css\\fontawesome.min.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\fontawesome.min.css",
       "PackagePath": "staticwebassets\\css\\fontawesome.min.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\css\\regular.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\regular.css",
       "PackagePath": "staticwebassets\\css\\regular.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\css\\regular.min.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\regular.min.css",
       "PackagePath": "staticwebassets\\css\\regular.min.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\css\\solid.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\solid.css",
       "PackagePath": "staticwebassets\\css\\solid.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\css\\solid.min.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\solid.min.css",
       "PackagePath": "staticwebassets\\css\\solid.min.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\css\\svg-with-js.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\svg-with-js.css",
       "PackagePath": "staticwebassets\\css\\svg-with-js.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\css\\svg-with-js.min.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\svg-with-js.min.css",
       "PackagePath": "staticwebassets\\css\\svg-with-js.min.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\css\\v4-font-face.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\v4-font-face.css",
       "PackagePath": "staticwebassets\\css\\v4-font-face.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\css\\v4-font-face.min.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\v4-font-face.min.css",
       "PackagePath": "staticwebassets\\css\\v4-font-face.min.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\css\\v4-shims.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\v4-shims.css",
       "PackagePath": "staticwebassets\\css\\v4-shims.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\css\\v4-shims.min.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\v4-shims.min.css",
       "PackagePath": "staticwebassets\\css\\v4-shims.min.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\css\\v5-font-face.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\v5-font-face.css",
       "PackagePath": "staticwebassets\\css\\v5-font-face.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\css\\v5-font-face.min.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\css\\v5-font-face.min.css",
       "PackagePath": "staticwebassets\\css\\v5-font-face.min.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\webfonts\\fa-v4compatibility.ttf",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\webfonts\\fa-v4compatibility.ttf",
       "PackagePath": "staticwebassets\\webfonts\\fa-v4compatibility.ttf"
     },
     {
-      "Id": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\wwwroot\\webfonts\\fa-v4compatibility.woff2",
+      "Id": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\wwwroot\\webfonts\\fa-v4compatibility.woff2",
       "PackagePath": "staticwebassets\\webfonts\\fa-v4compatibility.woff2"
     },
     {

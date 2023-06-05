@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\Proyecto-pagina.csproj": {}
+    "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\Proyecto-pagina.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\Proyecto-pagina.csproj": {
+    "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\Proyecto-pagina.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\Proyecto-pagina.csproj",
+        "projectUniqueName": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\Proyecto-pagina.csproj",
         "projectName": "Proyecto-pagina",
-        "projectPath": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\Proyecto-pagina.csproj",
+        "projectPath": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\Proyecto-pagina.csproj",
         "packagesPath": "C:\\Users\\Lisandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lisandro\\fuentes\\Mis-proyectos\\GIT HUB\\Mercado Libre con HTML-CSS-Boostrap\\Pagina-HTML-CSS-Boostrap\\Proyecto-pagina\\obj\\",
+        "outputPath": "C:\\Users\\Lisandro\\OneDrive\\Escritorio\\Nueva carpeta\\Proyecto-pagina\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

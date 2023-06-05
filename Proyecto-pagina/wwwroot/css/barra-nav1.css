@@ -1,0 +1,23 @@
+.sin-padding{
+    padding: 3px;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: minmax(150px,1fr)
+}
+
+.buscador {
+    border-radius: 0px;
+    border: none;
+}
+
+.botonBuscador {
+    border-radius: 0px 2px 2px 0px;
+    background-color: white;
+    color: #666;
+    border: none;
+    border-left: 1px solid #e6e6e6;
+    width: 46px;
+    cursor: pointer;
+}

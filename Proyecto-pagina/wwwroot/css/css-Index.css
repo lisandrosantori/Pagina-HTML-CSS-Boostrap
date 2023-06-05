@@ -2,9 +2,16 @@ header {
     background-color: #fff159;
     position: relative;
 }
+.nav__responsive-ul{
+    display: none;
+}
 
-.nav-menu-item {
-    float: left;
+.nav__ul{
+
+}
+
+.nav__li{
+
 }
 
 .nav-menu-ubicacion {
@@ -99,20 +106,6 @@ body {
     font-size: 45px;
 }
 
-.buscador {
-    border-radius: 0px;
-    border: none;
-}
-
-.botonBuscador {
-    border-radius: 0px 2px 2px 0px;
-    background-color: white;
-    color: #666;
-    border: none;
-    border-left: 1px solid #e6e6e6;
-    width: 46px;
-    cursor: pointer;
-}
 
 button:hover.botonBuscador {
     background-color: white;

@@ -91,3 +91,34 @@ C:\Users\Lisandro\fuentes\Mis-proyectos\GIT HUB\Mercado Libre con HTML-CSS-Boost
 C:\Users\Lisandro\fuentes\Mis-proyectos\GIT HUB\Mercado Libre con HTML-CSS-Boostrap\Pagina-HTML-CSS-Boostrap\Proyecto-pagina\obj\Debug\net6.0\Proyecto-pagina.pdb
 C:\Users\Lisandro\fuentes\Mis-proyectos\GIT HUB\Mercado Libre con HTML-CSS-Boostrap\Pagina-HTML-CSS-Boostrap\Proyecto-pagina\obj\Debug\net6.0\Proyecto-pagina.genruntimeconfig.cache
 C:\Users\Lisandro\fuentes\Mis-proyectos\GIT HUB\Mercado Libre con HTML-CSS-Boostrap\Pagina-HTML-CSS-Boostrap\Proyecto-pagina\obj\Debug\net6.0\ref\Proyecto-pagina.dll
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\bin\Debug\net6.0\appsettings.json
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\bin\Debug\net6.0\Proyecto-pagina.staticwebassets.runtime.json
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\bin\Debug\net6.0\Proyecto-pagina.exe
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\bin\Debug\net6.0\Proyecto-pagina.deps.json
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\bin\Debug\net6.0\Proyecto-pagina.runtimeconfig.json
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\bin\Debug\net6.0\Proyecto-pagina.dll
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\bin\Debug\net6.0\Proyecto-pagina.pdb
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\Proyecto-pagina.csproj.AssemblyReference.cache
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\Proyecto-pagina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\Proyecto-pagina.AssemblyInfoInputs.cache
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\Proyecto-pagina.AssemblyInfo.cs
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\Proyecto-pagina.csproj.CoreCompileInputs.cache
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\Proyecto-pagina.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\Proyecto-pagina.RazorAssemblyInfo.cache
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\Proyecto-pagina.RazorAssemblyInfo.cs
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\staticwebassets\msbuild.Proyecto-pagina.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\staticwebassets\msbuild.build.Proyecto-pagina.props
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto-pagina.props
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Proyecto-pagina.props
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\scopedcss\bundle\Proyecto-pagina.styles.css
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\scopedcss\projectbundle\Proyecto-pagina.bundle.scp.css
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\Proyecto-pagina.dll
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\refint\Proyecto-pagina.dll
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\Proyecto-pagina.pdb
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\Proyecto-pagina.genruntimeconfig.cache
+C:\Users\Lisandro\OneDrive\Escritorio\Nueva carpeta\Proyecto-pagina\obj\Debug\net6.0\ref\Proyecto-pagina.dll
